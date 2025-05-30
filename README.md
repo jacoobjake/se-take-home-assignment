@@ -1,3 +1,26 @@
+# Running the Test Application
+
+This is a **Next.js** application.
+
+Note: This application uses in-memory storage only. All data will be lost when the page is refreshed or the server restarts.
+
+## Installation
+
+1. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+2. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+The application will be running at http://localhost:3000.
+
+### Original Requirements
 ## FeedMe Software Engineer Take Home Assignment
 Below is a take home assignment before the interview of the position. You are required to
 1. Understand the situation and use case. You may contact the interviewer for further clarification.
